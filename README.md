@@ -19,6 +19,7 @@ git clone https://github.com/Swag666baby/dos-attack
 cd dos-attack
 tsc
 ```
+If you want to use it in another environment, rewrite the `.env`
 
 # running 
 ```bash
