@@ -13,21 +13,20 @@
  yarn add express @types/node
  ```
 
-# accessing
+# preparing
 ```bash
 git clone https://github.com/Swag666baby/dos-attack
 cd dos-attack
+tsc
 ```
 
 # running 
 ```bash
-tsc src/index.ts
-node src/index.js
+node dist/index.js
 ```
 There is a server for testing, you can use it with
 ```bash
-tsc src/test/server.ts
-node src/test/server.js
+node dist/test/server.js
 ```
 
 Any criticism or suggestion I will be happy to read the issues.
