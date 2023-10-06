@@ -10,7 +10,7 @@
  ```
 ### • install the packages 
  ```bash
- yarn add express @types/node
+ yarn add express @types/node dotenv
  ```
 
 # preparing
